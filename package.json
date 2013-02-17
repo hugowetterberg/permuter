@@ -1,0 +1,24 @@
+{
+  "name": "permuter",
+  "version": "0.1.0",
+  "description": "A library for creating conditional permutations",
+  "homepage": "https://github.com/hugowetterberg/permuter",
+  "author": {
+    "name": "Hugo Wetterberg",
+    "email": "hugo@wetterberg.nu",
+    "url": "https://github.com/hugowetterberg"
+  },
+  "keywords": [
+    "permutation"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/hugowetterberg/permuter/raw/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
